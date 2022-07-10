@@ -5,6 +5,11 @@ SQL: [Bike-Share Analysis](https://github.com/tonytian98/shared_bike_analysis/bl
 
 Tableau: [Bike-Share Visualization](https://public.tableau.com/app/profile/tianzongyue/viz/Shared_Bike_Data/Dashboard1)       [World Happiness Index](https://public.tableau.com/app/profile/tianzongyue/viz/WorldHappinessIndexMap_16574928056100/Sheet24#1)
 
+Statistics: [Logit Regression](https://github.com/tonytian98/Research_on_university_choice_LogitRegression_Pandas_Numpy_Pyplot/blob/master/Logistic%20REG.ipynb)
+
+Machine Learning: [Desicion Tree From Scratch](https://github.com/tonytian98/Decision-Tree-From-Scratch/blob/main/desicion%20tree.ipynb)
+[KMeans-Visual](https://github.com/tonytian98/KMeansClusteringVisualization/blob/master/K_means%20clustering%20visualization%20using%20numpy%20and%20pyplot.gif)
+[Kmeans-Code-From Scratch](https://github.com/tonytian98/KMeansClusteringVisualization/blob/master/K_means%20clustering%20visualization%20using%20numpy%20and%20pyplot.ipynb)
 
 <!--
 **tonytian98/tonytian98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
