@@ -10,7 +10,7 @@ Data Visualization and story telling: [The Change in Correlation between Bitcoin
 Market Indexes Return after Covid-19](https://github.com/tonytian98/Corr_bitcoin_stock/blob/main/Visual_story.md)//
 
 
-Classic Statistics: [Research on Fatories Influencing University Choice(Logit)](https://github.com/tonytian98/Research_on_university_choice_LogitRegression_Pandas_Numpy_Pyplot/blob/master/Logistic%20REG.ipynb)//
+Classic Statistics: [Research on Fatories Influencing University Choice(Logit)](https://github.com/tonytian98/Research_on_university_choice_LogitRegression_Pandas_Numpy_Pyplot/blob/master/README.md)//
 [The Change in Correlation between Bitcoin Return and Stock
 Market Indexes Return after Covid-19](https://github.com/tonytian98/Corr_bitcoin_stock#readme)
 
