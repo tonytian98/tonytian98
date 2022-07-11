@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there👋 I'm Tony. I'm determined to develop my career in data analytics, hopefully in data science in the future too
 
+### My Skill Sets
 
 SQL: [Bike-Share Analysis](https://github.com/tonytian98/shared_bike_analysis/blob/main/SQL_Analysis.md)//
 
