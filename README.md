@@ -21,7 +21,9 @@ Machine Learning: [Desicion Tree(numpy only)](https://github.com/tonytian98/Deci
 [Logit Rgression with two Optimizers(numpy only)](https://github.com/tonytian98/Logistic-regression-from-scratch/blob/main/logit.ipynb)
 
 NLP: [Word to Vector Useing Matrix Factoriazation](https://github.com/tonytian98/Word_2_vec_matrix_factorization/blob/main/Word2Vec_Matrix_Factorization.ipynb)//
-[Poetry Generation with LSTM]()
+[Poetry Generation with LSTM](https://github.com/tonytian98/poetrys_gen_lstm/blob/main/poetry_generation_LSTM.ipynb)
+
+Web Scraping: [Unlimited Twitter Scraper](https://github.com/tonytian98/twitter_scraper/blob/main/README.md)
 
 <!--
 **tonytian98/tonytian98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
