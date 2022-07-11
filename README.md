@@ -7,8 +7,12 @@ SQL: [Bike-Share Analysis](https://github.com/tonytian98/shared_bike_analysis/bl
 Tableau: [Bike-Share Visualization](https://public.tableau.com/app/profile/tianzongyue/viz/Shared_Bike_Data/Dashboard1)//       [World Happiness Index](https://public.tableau.com/app/profile/tianzongyue/viz/WorldHappinessIndexMap_16574928056100/Sheet24#1)//
 
 Data Visualization and story telling: [The Change in Correlation between Bitcoin Return and Stock
-Market Indexes Return after Covid-19](https://github.com/tonytian98/Corr_bitcoin_stock/blob/main/Visual_story.md)
+Market Indexes Return after Covid-19](https://github.com/tonytian98/Corr_bitcoin_stock/blob/main/Visual_story.md)//
+
+
 Classic Statistics: [Research on Fatories Influencing University Choice(Logit)](https://github.com/tonytian98/Research_on_university_choice_LogitRegression_Pandas_Numpy_Pyplot/blob/master/Logistic%20REG.ipynb)//
+[The Change in Correlation between Bitcoin Return and Stock
+Market Indexes Return after Covid-19](https://github.com/tonytian98/Corr_bitcoin_stock#readme)
 
 
 Machine Learning: [Desicion Tree(numpy only)](https://github.com/tonytian98/Decision-Tree-From-Scratch/blob/main/desicion%20tree.ipynb)//
