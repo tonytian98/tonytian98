@@ -1,4 +1,4 @@
-### Hi there👋 I'm Tony. I'm determined to develop my career in data analytics, hopefully in data science in the future too
+### Hi there👋 I'm Tony, determined to develop my career in data analytics
 
 ### My Skill Sets
 
