@@ -1,4 +1,4 @@
-### Hi there👋 I'm Tony, determined to develop my career in Big Data Industry
+### Hi there👋 I'm Tony,
 
 ### My Skill Sets
 
