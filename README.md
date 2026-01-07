@@ -2,7 +2,7 @@
 
 ### My Skill Sets
 
-Python: [SQL DB Migration Tool](https://github.com/tonytian98/DMBack)//
+Python: [SQL DB Migration Tool](https://github.com/tonytian98/DMBack)//    [Auto Email Reader and auto SQL Extraction base on Email Info](https://github.com/tonytian98/outlook_email_reader)// 
 
 SQL: [Bike-Share Analysis](https://github.com/tonytian98/shared_bike_analysis/blob/main/SQL_Analysis.md)//
 
