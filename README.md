@@ -4,6 +4,10 @@
 
 Python: [SQL DB Migration Tool](https://github.com/tonytian98/DMBack)//    [Auto Email Reader and auto SQL Extraction base on Email Info](https://github.com/tonytian98/outlook_email_reader)// 
 
+Financial Research with Python [Investigating Profitablity of long term Pairs Trading Strategy](https://github.com/tonytian98/Research_Pairs-Trading-Strategy/)//[The Change in Correlation between Bitcoin Return and Stock
+Market Indexes Return after Covid-19](https://github.com/tonytian98/Corr_bitcoin_stock/blob/main/Visual_story.md)//
+
+
 SQL: [Bike-Share Analysis](https://github.com/tonytian98/shared_bike_analysis/blob/main/SQL_Analysis.md)//
 
 Tableau: [Bike-Share Visualization](https://public.tableau.com/app/profile/tianzongyue/viz/Shared_Bike_Data/Dashboard1)//       [World Happiness Index](https://public.tableau.com/app/profile/tianzongyue/viz/WorldHappinessIndexMap_16574928056100/Sheet24#1)//
