@@ -1,4 +1,4 @@
-### Hi there👋 I'm Tony,
+### Hi there👋 I'm Tony, a python engineer with a focus on data
 
 ### My Skill Sets
 
